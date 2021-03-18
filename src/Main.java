@@ -55,19 +55,19 @@ public class Main extends PApplet{
 
 									switch (line) {
 									case "UP":
-										posY -= 10;
+										posY -= 15;
 										break;
 
 									case "DOWN":
-										posY += 10;
+										posY += 15;
 										break;
 
 									case "LEFT":
-										posX -= 10;
+										posX -= 15;
 										break;
 
 									case "RIGHT":
-										posX += 10;
+										posX += 15;
 										break;
 
 									case "COLOR":
